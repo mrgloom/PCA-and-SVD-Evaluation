@@ -1,7 +1,7 @@
 # PCA-and-SVD-Evaluation
 PCA(Principal Component Analysis), SVD(Singular Value Decomposition), LSA(Latent Semantic Analysis)
 
-tags: reduced SVD, Out-of-Core SVD, 
+tags: reduced SVD, Out-of-Core SVD, Stochastic SVD, 
 
 ~~~
 
