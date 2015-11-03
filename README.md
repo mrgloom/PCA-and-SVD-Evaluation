@@ -3,6 +3,7 @@ PCA(Principal Component Analysis), SVD(Singular Value Decomposition), LSA(Latent
 
 ~~~
 https://github.com/facebook/fbpca
+https://research.facebook.com/blog/294071574113354/fast-randomized-svd/
 
 redsvd
 http://nuit-blanche.blogspot.ru/2011/12/redsvd-randomized-singular-value.html
