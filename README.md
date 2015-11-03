@@ -20,3 +20,9 @@ https://github.com/ktaneishi/pyredsvd
 Gensim
 https://radimrehurek.com/gensim/models/lsimodel.html
 ~~~
+
+Papers:
+~~~
+"Finding structure with randomness: Probabilistic algorithms for constructing approximate matrix decompositions"
+http://arxiv.org/abs/0909.4061
+~~~
