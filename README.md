@@ -41,5 +41,8 @@ Presentations:
 ~~~
 "Randomized methods for computing the Singular Value Decomposition (SVD) of very large matrices"
 http://web.stanford.edu/group/mmds/slides2010/Martinsson.pdf
+"Randomized Algorithms for Very Large-Scale Linear Algebra"
+https://www.cse.cuhk.edu.hk/irwin.king/_media/presentations/randomized_algorithm_for_very-large_scale_linear_algebra.pdf
+
 ~~~
 
