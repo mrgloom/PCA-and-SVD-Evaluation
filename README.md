@@ -4,14 +4,13 @@ PCA(Principal Component Analysis), SVD(Singular Value Decomposition), LSA(Latent
 tags: reduced SVD, Out-of-Core SVD, 
 
 ~~~
-https://github.com/facebook/fbpca
-https://research.facebook.com/blog/294071574113354/fast-randomized-svd/
 
 redsvd
 http://nuit-blanche.blogspot.ru/2011/12/redsvd-randomized-singular-value.html
 https://code.google.com/p/redsvd/
 
 http://cims.nyu.edu/~tygert/software.html
+http://tygert.com/software.html
 
 Python:
 TruncatedSVD
@@ -21,6 +20,9 @@ http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.Randomize
 https://github.com/ktaneishi/pyredsvd
 Gensim
 https://radimrehurek.com/gensim/models/lsimodel.html
+Fast Randomized SVD
+https://github.com/facebook/fbpca
+https://research.facebook.com/blog/294071574113354/fast-randomized-svd/
 
 PROPACK
 http://sun.stanford.edu/~rmunk/PROPACK/
