@@ -16,4 +16,6 @@ http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.Truncated
 RandomizedPCA
 http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.RandomizedPCA.html#sklearn.decomposition.RandomizedPCA
 https://github.com/ktaneishi/pyredsvd
+Gensim
+https://radimrehurek.com/gensim/models/lsimodel.html
 ~~~
