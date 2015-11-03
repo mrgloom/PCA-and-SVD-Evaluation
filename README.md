@@ -1,7 +1,7 @@
 # PCA-and-SVD-Evaluation
 PCA(Principal Component Analysis), SVD(Singular Value Decomposition), LSA(Latent Semantic Analysis)
 
-tags: reduced SVD, 
+tags: reduced SVD, Out-of-Core SVD, 
 
 ~~~
 https://github.com/facebook/fbpca
@@ -24,6 +24,9 @@ https://radimrehurek.com/gensim/models/lsimodel.html
 
 PROPACK
 http://sun.stanford.edu/~rmunk/PROPACK/
+
+Out-of-Core SVD
+https://sites.google.com/site/yoelshkolnisky/software
 ~~~
 
 Papers:
