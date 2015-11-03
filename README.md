@@ -36,3 +36,10 @@ Papers:
 "Finding structure with randomness: Probabilistic algorithms for constructing approximate matrix decompositions"
 http://arxiv.org/abs/0909.4061
 ~~~
+
+Presentations:
+~~~
+"Randomized methods for computing the Singular Value Decomposition (SVD) of very large matrices"
+http://web.stanford.edu/group/mmds/slides2010/Martinsson.pdf
+~~~
+
