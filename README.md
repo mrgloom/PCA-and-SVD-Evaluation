@@ -10,6 +10,8 @@ https://code.google.com/p/redsvd/
 
 TruncatedSVD
 http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.TruncatedSVD.html
+RandomizedPCA
+http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.RandomizedPCA.html#sklearn.decomposition.RandomizedPCA
 
 http://cims.nyu.edu/~tygert/software.html
 ~~~
