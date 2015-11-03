@@ -1,6 +1,8 @@
 # PCA-and-SVD-Evaluation
 PCA(Principal Component Analysis), SVD(Singular Value Decomposition), LSA(Latent Semantic Analysis)
 
+tags: reduced SVD, 
+
 ~~~
 https://github.com/facebook/fbpca
 https://research.facebook.com/blog/294071574113354/fast-randomized-svd/
@@ -19,6 +21,9 @@ http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.Randomize
 https://github.com/ktaneishi/pyredsvd
 Gensim
 https://radimrehurek.com/gensim/models/lsimodel.html
+
+PROPACK
+http://sun.stanford.edu/~rmunk/PROPACK/
 ~~~
 
 Papers:
