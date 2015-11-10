@@ -48,3 +48,8 @@ https://www.cse.cuhk.edu.hk/irwin.king/_media/presentations/randomized_algorithm
 
 ~~~
 
+Other:
+~~~
+LDA
+https://github.com/Microsoft/lightlda
+~~~
