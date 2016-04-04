@@ -25,7 +25,8 @@ https://radimrehurek.com/gensim/models/lsimodel.html
 Fast Randomized SVD
 https://github.com/facebook/fbpca
 https://research.facebook.com/blog/294071574113354/fast-randomized-svd/
-
+PCA comparision
+https://github.com/vighneshbirodkar/pca
 
 PROPACK
 http://sun.stanford.edu/~rmunk/PROPACK/
