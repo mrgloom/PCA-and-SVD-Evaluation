@@ -37,6 +37,11 @@ https://sites.google.com/site/yoelshkolnisky/software
 https://github.com/sergeyvoronin/LowRankSVDCodes
 ~~~
 
+Cluster version:
+~~~
+https://github.com/SiddharthMalhotra/sPCA
+~~~
+
 Papers:
 ~~~
 "Finding structure with randomness: Probabilistic algorithms for constructing approximate matrix decompositions"
