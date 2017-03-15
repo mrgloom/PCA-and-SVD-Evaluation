@@ -14,6 +14,9 @@ https://code.google.com/p/redsvd/
 http://cims.nyu.edu/~tygert/software.html
 http://tygert.com/software.html
 
+truncated SVD
+http://radimrehurek.com/gensim/models/lsimodel.html
+
 Python:
 TruncatedSVD
 http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.TruncatedSVD.html
