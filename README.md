@@ -43,6 +43,9 @@ https://github.com/sergeyvoronin/LowRankSVDCodes
 
 C++
 https://github.com/gabraham/flashpca
+
+CUDA
+https://github.com/sergeyvoronin/LowRankMatrixDecompositionCodes
 ~~~
 
 Cluster version:
