@@ -78,3 +78,6 @@ Blogs:
 ~~~
 https://www.reddit.com/r/MachineLearning/comments/2zresl/how_to_pca_large_data_sets_im_running_out_of/
 ~~~
+
+# ICA
+- https://github.com/Felix-Yan/FastICA
